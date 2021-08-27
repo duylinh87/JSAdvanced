@@ -1,3 +1,8 @@
 Tạo git 
 1. git init
-2. 
+2. git config user.name "Duy Linh" 
+3.git config user.gmail "duylinh87.wru@gmail.com"     
+4. git add .
+5. git commit -m "start"
+6.  git remote add origin https://github.com/duylinh87/JSAdvanced.git (tên repo tạo trên git)
+7. git push origin master
