@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1002,
+        "useName" : "deco",
+        "age" :28
+    },
+    {
+        "id" : 1006,
+        "useName" : "linh",
+        "age" :30
+    },
+    {
+        "id" : 100,
+        "useName" : "hung",
+        "age" :40
+    }
+
+]
